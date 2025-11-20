@@ -2,7 +2,8 @@ pandas
 numpy
 scikit-learn
 matplotlib
-tensorflow-lite,onnxruntime
+tensorflow-cpu==2.13.0
 streamlit
+
 
 
